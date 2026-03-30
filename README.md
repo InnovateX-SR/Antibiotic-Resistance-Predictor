@@ -31,5 +31,13 @@ Prediction of resistance (Resistant / Susceptible)
 
  Add real-time prediction tool
  Improve accuracy with advanced models
+ 🛠️ Technologies Used
+ 
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+  
  📊 Output
+ 
 The model was trained successfully and achieved high accuracy. Feature importance visualization was used to identify key factors affecting predictions.
